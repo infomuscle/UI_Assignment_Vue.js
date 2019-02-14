@@ -1,0 +1,588 @@
+{
+  "CTG": [{
+    "ID": "5410000001",
+    "NM": "패션",
+    "LV": 0,
+    "TP": "C30",
+    "SN": "6005",
+    "LINK_TP": "40",
+    "APP_YN": "Y",
+    "MW_YN": "Y",
+    "DTH": 0,
+    "L": [{
+      "ID": "5500000001",
+      "NM": "여성캐주얼/정장",
+      "LV": 1,
+      "TP": "10",
+      "SN": "6005",
+      "LINK_TP": "10",
+      "PN": {
+        "IMG_ALT": "난닝구 new arrivals 쿠폰혜택",
+        "IMG": "http://dev-img.ssgcdn.com/trans.ssg?src=/cmpt/banner/201803/2018031915141573592777355377_601.jpg",
+        "TITL": "난닝구 new arrivals",
+        "LINK_URL": "http://dev-www.ssg.com/plan/planShop.ssg?planShopId=3600124723"
+      },
+      "APP_YN": "Y",
+      "MW_YN": "Y",
+      "DTH": 1
+    }, {
+      "ID": "5500000113",
+      "NM": "남성캐주얼/정장",
+      "LV": 1,
+      "TP": "10",
+      "SN": "6005",
+      "LINK_TP": "10",
+      "PN": {
+        "IMG_ALT": "해리슨 2018 S/S event 최대 25%off 기본 20%혜택",
+        "IMG": "http://dev-img.ssgcdn.com/trans.ssg?src=/cmpt/banner/201802/2018020713555420337282031828_162.jpg",
+        "TITL": "해리슨 2018 S/S event",
+        "SUBTITL": "최대 25%off 기본 20%혜택",
+        "LINK_URL": "http://dev-www.ssg.com/plan/planShop.ssg?planShopId=6000081631"
+      },
+      "APP_YN": "Y",
+      "MW_YN": "Y",
+      "DTH": 1
+    }, {
+      "ID": "5500000162",
+      "NM": "유니섹스/언더웨어",
+      "LV": 1,
+      "TP": "10",
+      "SN": "6005",
+      "LINK_TP": "10",
+      "PN": {
+        "IMG_ALT": "SAINT JAMES 신규색상+재입고 5%쿠폰+무료배송 프랑스 마린룩",
+        "IMG": "http://dev-img.ssgcdn.com/trans.ssg?src=/cmpt/banner/201801/2018013010130976043577608357_841.jpg",
+        "TITL": "SAINT JAMES 신규색상+재입고",
+        "SUBTITL": "5%쿠폰+무료배송 프랑스 마린룩",
+        "LINK_URL": "http://dev-www.ssg.com/plan/planShop.ssg?planShopId=6000076838"
+      },
+      "APP_YN": "Y",
+      "MW_YN": "Y",
+      "DTH": 1
+    }, {
+      "ID": "5500000334",
+      "NM": "가방/지갑/패션잡화",
+      "LV": 1,
+      "TP": "10",
+      "SN": "6005",
+      "LINK_TP": "10",
+      "PN": {
+        "IMG_ALT": "루이까또즈 18'S/S 오픈 전상품 18%쿠폰",
+        "IMG": "http://dev-img.ssgcdn.com/trans.ssg?src=/cmpt/banner/201801/2018012209032873515787356578_632.jpg",
+        "TITL": "루이까또즈 18'S/S 오픈",
+        "LINK_URL": "http://dev-www.ssg.com/plan/planShop.ssg?planShopId=3600000588"
+      },
+      "APP_YN": "Y",
+      "MW_YN": "Y",
+      "DTH": 1
+    }, {
+      "ID": "5500000399",
+      "NM": "패션슈즈",
+      "LV": 1,
+      "TP": "10",
+      "SN": "6005",
+      "LINK_TP": "10",
+      "PN": {
+        "IMG_ALT": "[탠디종합] TANDY X SSG ★ONLY SSG에서만 특별한 가격에!",
+        "IMG": "http://dev-img.ssgcdn.com/trans.ssg?src=/cmpt/banner/201805/2018051109511573562847351384_253.jpg",
+        "TITL": "[탠디종합] TANDY X SSG",
+        "SUBTITL": "★ONLY SSG에서만 특별한 가격에!",
+        "LINK_URL": "http://dev-www.ssg.com/plan/planShop.ssg?planShopId=6000034827"
+      },
+      "APP_YN": "Y",
+      "MW_YN": "Y",
+      "DTH": 1
+    }, {
+      "ID": "5500000429",
+      "NM": "명품/직구/시계/쥬얼리",
+      "LV": 1,
+      "TP": "10",
+      "SN": "6005",
+      "LINK_TP": "10",
+      "PN": {
+        "IMG_ALT": "[꼬르소밀라노] PREMIUM BRAND 전상품 17% 쿠폰",
+        "IMG": "http://dev-img.ssgcdn.com/trans.ssg?src=/cmpt/banner/201804/2018042413414273501887356188_582.jpg",
+        "TITL": "[꼬르소밀라노] PREMIUM BRAND",
+        "LINK_URL": "http://dev-www.ssg.com/plan/planShop.ssg?planShopId=6000150765"
+      },
+      "APP_YN": "Y",
+      "MW_YN": "Y",
+      "DTH": 1
+    }]
+  }, {
+    "ID": "5410000002",
+    "NM": "뷰티",
+    "LV": 0,
+    "TP": "C30",
+    "SN": "6005",
+    "LINK_TP": "40",
+    "APP_YN": "Y",
+    "MW_YN": "Y",
+    "DTH": 0,
+    "L": [{
+      "ID": "5500000577",
+      "NM": "명품화장품",
+      "LV": 1,
+      "TP": "10",
+      "SN": "6005",
+      "LINK_TP": "10",
+      "PN": {
+        "IMG_ALT": "프리미엄 퍼퓸 신세계 프리미엄 퍼퓸대전",
+        "IMG": "http://dev-img.ssgcdn.com/trans.ssg?src=/cmpt/banner/201802/2018022308222876027057606705_67.jpg",
+        "LINK_URL": "http://dev-www.ssg.com/plan/planShop.ssg?planShopId=6000014823"
+      },
+      "APP_YN": "Y",
+      "MW_YN": "Y",
+      "DTH": 1
+    }, {
+      "ID": "5500000666",
+      "NM": "화장품/향수",
+      "LV": 1,
+      "TP": "10",
+      "SN": "6005",
+      "LINK_TP": "10",
+      "PN": {
+        "IMG_ALT": "피지오겔 165년 보습노하우 크림/로션",
+        "IMG": "http://dev-img.ssgcdn.com/trans.ssg?src=/cmpt/banner/201709/2017090810422680459028040012_667.jpg",
+        "TITL": "피지오겔 NEW 카밍 릴리프",
+        "LINK_URL": "http://dev-www.ssg.com/plan/planShop.ssg?planShopId=6000003332"
+      },
+      "APP_YN": "Y",
+      "MW_YN": "Y",
+      "DTH": 1
+    }, {
+      "ID": "5500000746",
+      "NM": "헤어/바디/미용/구강",
+      "LV": 1,
+      "TP": "10",
+      "SN": "6005",
+      "LINK_TP": "10",
+      "PN": {
+        "IMG_ALT": "이영애가 선택한 하루5분의 기적 리파!",
+        "IMG": "http://dev-img.ssgcdn.com/trans.ssg?src=/cmpt/banner/201701/2017013117492009044520902552_272.jpg",
+        "TITL": "이영애가 선택한 하루5분의 기적",
+        "LINK_URL": "http://dev-www.ssg.com/plan/planShop.ssg?planShopId=6000041031"
+      },
+      "APP_YN": "Y",
+      "MW_YN": "Y",
+      "DTH": 1
+    }]
+  }, {
+    "ID": "5410000003",
+    "NM": "생활",
+    "LV": 0,
+    "TP": "C30",
+    "SN": "6005",
+    "LINK_TP": "40",
+    "APP_YN": "Y",
+    "MW_YN": "Y",
+    "DTH": 0,
+    "L": [{
+      "ID": "5500000806",
+      "NM": "가구/침구/인테리어",
+      "LV": 1,
+      "TP": "10",
+      "SN": "6005",
+      "LINK_TP": "10",
+      "PN": {
+        "IMG_ALT": "2018년에도 시몬스 침대 편안한숙면을 침대/매트리스",
+        "IMG": "http://dev-img.ssgcdn.com/trans.ssg?src=/cmpt/banner/201803/2018032312054420334162032516_355.jpg",
+        "TITL": "2018년에도 시몬스 침대",
+        "SUBTITL": "편안한숙면을 침대/매트리스",
+        "LINK_URL": "http://dev-www.ssg.com/plan/planShop.ssg?planShopId=6000082805"
+      },
+      "APP_YN": "Y",
+      "MW_YN": "Y",
+      "DTH": 1
+    }, {
+      "ID": "5500000920",
+      "NM": "세제/제지/위생용품",
+      "LV": 1,
+      "TP": "10",
+      "SN": "6005",
+      "LINK_TP": "10",
+      "PN": {
+        "IMG_ALT": "HEALTH-CARE GIFT! 고품격 프리미엄 헬스케어",
+        "IMG": "http://dev-img.ssgcdn.com/trans.ssg?src=/cmpt/banner/201506/20150619170536_621.jpg",
+        "TITL": "HEALTH-CARE GIFT!",
+        "SUBTITL": "고품격 프리미엄 헬스케어",
+        "LINK_URL": "http://dev-www.ssg.com/plan/planShop.ssg?planShopId=6000033757"
+      },
+      "APP_YN": "Y",
+      "MW_YN": "Y",
+      "DTH": 1
+    }, {
+      "ID": "5500001000",
+      "NM": "주방용품/식기",
+      "LV": 1,
+      "TP": "10",
+      "SN": "6005",
+      "LINK_TP": "10",
+      "PN": {
+        "IMG_ALT": "휘슬러 가정의달 특별할인전",
+        "IMG": "http://dev-img.ssgcdn.com/trans.ssg?src=/cmpt/banner/201804/2018042014554773527787358778_39.jpg",
+        "TITL": "휘슬러 가정의달",
+        "LINK_URL": "http://dev-www.ssg.com/plan/planShop.ssg?planShopId=6000189769"
+      },
+      "APP_YN": "Y",
+      "MW_YN": "Y",
+      "DTH": 1
+    }, {
+      "ID": "5500001170",
+      "NM": "생활/건강/자동차용품",
+      "LV": 1,
+      "TP": "10",
+      "SN": "6005",
+      "LINK_TP": "10",
+      "PN": {
+        "IMG_ALT": "어버이날 선물 안마기는 제스파! 무상 1년 AS",
+        "IMG": "http://dev-img.ssgcdn.com/trans.ssg?src=/cmpt/banner/201705/2017052216001543386514333751_447.jpg",
+        "TITL": "어버이날 선물 안마기는 제스파!",
+        "LINK_URL": "http://dev-www.ssg.com/plan/planShop.ssg?planShopId=6000048852"
+      },
+      "APP_YN": "Y",
+      "MW_YN": "Y",
+      "DTH": 1
+    }, {
+      "ID": "5500001349",
+      "NM": "도서/문구/악기/반려동물",
+      "LV": 1,
+      "TP": "10",
+      "SN": "6005",
+      "LINK_TP": "10",
+      "PN": {
+        "IMG_ALT": "소화잘되는 닥터소프트 모음 빠/른/배/송",
+        "IMG": "http://dev-img.ssgcdn.com/trans.ssg?src=/cmpt/banner/201805/2018050312031376080637603163_950.jpg",
+        "TITL": "소화잘되는 닥터소프트 모음",
+        "LINK_URL": "http://dev-www.ssg.com/plan/planShop.ssg?planShopId=6000196321"
+      },
+      "APP_YN": "Y",
+      "MW_YN": "Y",
+      "DTH": 1
+    }, {
+      "ID": "5500002080",
+      "NM": "상품권/서비스/여행",
+      "LV": 1,
+      "TP": "10",
+      "SN": "6005",
+      "LINK_TP": "10",
+      "PN": {
+        "IMG_ALT": "기프티콘 고급진 상품전 다양한 브랜드 한눈에 Get 하기!",
+        "IMG": "http://dev-img.ssgcdn.com/trans.ssg?src=/cmpt/banner/201803/2018031508490373564547350554_812.jpg",
+        "TITL": "기프티콘 고급진 상품전",
+        "SUBTITL": "다양한 브랜드 한눈에 Get 하기!",
+        "LINK_URL": "http://dev-www.ssg.com/plan/planShop.ssg?planShopId=6000209072"
+      },
+      "APP_YN": "Y",
+      "MW_YN": "Y",
+      "DTH": 1
+    }]
+  }, {
+    "ID": "5410000004",
+    "NM": "유아동",
+    "LV": 0,
+    "TP": "C30",
+    "SN": "6005",
+    "LINK_TP": "40",
+    "APP_YN": "Y",
+    "MW_YN": "Y",
+    "DTH": 0,
+    "L": [{
+      "ID": "5500002127",
+      "NM": "유아동용품/출산/임신",
+      "LV": 1,
+      "TP": "10",
+      "SN": "6005",
+      "LINK_TP": "10",
+      "PN": {
+        "IMG_ALT": "베이비뵨 2018 BABY POWER! ONLYSSG 단독판매 16% 쿠폰",
+        "IMG": "http://dev-img.ssgcdn.com/trans.ssg?src=/cmpt/banner/201805/2018051513094273564037353503_267.jpg",
+        "TITL": "베이비뵨 2018 BABY POWER!",
+        "SUBTITL": "ONLYSSG 단독판매 16% 쿠폰",
+        "LINK_URL": "http://dev-www.ssg.com/plan/planShop.ssg?planShopId=6000142899"
+      },
+      "APP_YN": "Y",
+      "MW_YN": "Y",
+      "DTH": 1
+    }, {
+      "ID": "5500002220",
+      "NM": "유아동 의류/잡화",
+      "LV": 1,
+      "TP": "10",
+      "SN": "6005",
+      "LINK_TP": "10",
+      "PN": {
+        "IMG_ALT": "해피프린스 스윔웨어 런칭★ 최대 50% 쿠폰~",
+        "IMG": "http://dev-img.ssgcdn.com/trans.ssg?src=/cmpt/banner/201805/2018050418435373558827350982_995.jpg",
+        "TITL": "해피프린스 스윔웨어 런칭★",
+        "LINK_URL": "http://dev-www.ssg.com/plan/planShop.ssg?planShopId=6000188476"
+      },
+      "APP_YN": "Y",
+      "MW_YN": "Y",
+      "DTH": 1
+    }, {
+      "ID": "5500002316",
+      "NM": "유아동 완구/교구",
+      "LV": 1,
+      "TP": "10",
+      "SN": "6005",
+      "LINK_TP": "10",
+      "PN": {
+        "IMG_ALT": "MD 강력추천 캐릭터/브랜드별 인기상품만 모아!",
+        "IMG": "http://dev-img.ssgcdn.com/trans.ssg?src=/cmpt/banner/201710/2017101713333509031250903225_111.jpg",
+        "TITL": "MD 강력추천 캐릭터/브랜드별",
+        "LINK_URL": "http://dev-www.ssg.com/plan/planShop.ssg?planShopId=6000165812"
+      },
+      "APP_YN": "Y",
+      "MW_YN": "Y",
+      "DTH": 1
+    }]
+  }, {
+    "ID": "5410000005",
+    "NM": "디지털",
+    "LV": 0,
+    "TP": "C30",
+    "SN": "6005",
+    "LINK_TP": "40",
+    "APP_YN": "Y",
+    "MW_YN": "Y",
+    "DTH": 0,
+    "L": [{
+      "ID": "5500002381",
+      "NM": "컴퓨터/게임",
+      "LV": 1,
+      "TP": "10",
+      "SN": "6005",
+      "LINK_TP": "10",
+      "PN": {
+        "IMG_ALT": "엡손 이벤트 정품무한잉크젯 상품권 증정",
+        "IMG": "http://dev-img.ssgcdn.com/trans.ssg?src=/cmpt/banner/201712/2017120815412073577947355894_34.jpg",
+        "TITL": "엡손 이벤트 정품무한잉크젯",
+        "LINK_URL": "http://dev-www.ssg.com/plan/planShop.ssg?planShopId=6000162943"
+      },
+      "APP_YN": "Y",
+      "MW_YN": "Y",
+      "DTH": 1
+    }, {
+      "ID": "5500002483",
+      "NM": "디카/음향/스마트폰",
+      "LV": 1,
+      "TP": "10",
+      "SN": "6005",
+      "LINK_TP": "10",
+      "PN": {
+        "IMG_ALT": "삼성 모바일ACC 케이스/충전기 음향기기/VR",
+        "IMG": "http://dev-img.ssgcdn.com/trans.ssg?src=/cmpt/banner/201803/2018030209484773504107355410_834.jpg",
+        "TITL": "삼성 모바일ACC",
+        "SUBTITL": "케이스/충전기 음향기기/VR",
+        "LINK_URL": "http://dev-www.ssg.com/plan/planShop.ssg?planShopId=6000030504"
+      },
+      "APP_YN": "Y",
+      "MW_YN": "Y",
+      "DTH": 1
+    }, {
+      "ID": "5500002560",
+      "NM": "계절/자동차가전",
+      "LV": 1,
+      "TP": "10",
+      "SN": "6005",
+      "LINK_TP": "10",
+      "PN": {
+        "IMG_ALT": "다이슨 에어멀티플라이어 사은품증정 리뷰이벤트행사",
+        "IMG": "http://dev-img.ssgcdn.com/trans.ssg?src=/cmpt/banner/201804/2018043014301473532737358273_187.jpg",
+        "TITL": "다이슨 에어멀티플라이어",
+        "SUBTITL": "사은품증정 리뷰이벤트행사",
+        "LINK_URL": "http://dev-www.ssg.com/plan/planShop.ssg?planShopId=6000176539"
+      },
+      "APP_YN": "Y",
+      "MW_YN": "Y",
+      "DTH": 1
+    }, {
+      "ID": "5500002608",
+      "NM": "영상/주방/생활가전",
+      "LV": 1,
+      "TP": "10",
+      "SN": "6005",
+      "LINK_TP": "10",
+      "PN": {
+        "IMG_ALT": "2018년형 위니아 딤채 김치냉장고 WEEK 맛있는발효과학♥",
+        "IMG": "http://dev-img.ssgcdn.com/trans.ssg?src=/cmpt/banner/201711/2017111713543876091907604290_91.jpg",
+        "TITL": "2018년형 위니아 딤채",
+        "SUBTITL": "김치냉장고 WEEK 맛있는발효과학♥",
+        "LINK_URL": "http://dev-www.ssg.com/plan/planShop.ssg?planShopId=6000147502"
+      },
+      "APP_YN": "Y",
+      "MW_YN": "Y",
+      "DTH": 1
+    }]
+  }, {
+    "ID": "5410000006",
+    "NM": "스포츠",
+    "LV": 0,
+    "TP": "C30",
+    "SN": "6005",
+    "LINK_TP": "40",
+    "APP_YN": "Y",
+    "MW_YN": "Y",
+    "DTH": 0,
+    "L": [{
+      "ID": "5500002668",
+      "NM": "스포츠패션/용품",
+      "LV": 1,
+      "TP": "10",
+      "SN": "6005",
+      "LINK_TP": "10",
+      "PN": {
+        "IMG_ALT": "모든신발 다있다! 스니커즈/샌들 外 BEST 상품 입고!",
+        "IMG": "http://dev-img.ssgcdn.com/trans.ssg?src=/cmpt/banner/201805/2018051715551173516137350713_775.jpg",
+        "TITL": "모든신발 다있다! 스니커즈/샌들 外",
+        "LINK_URL": "http://dev-www.ssg.com/plan/planShop.ssg?planShopId=6000196297"
+      },
+      "APP_YN": "Y",
+      "MW_YN": "Y",
+      "DTH": 1
+    }, {
+      "ID": "5500002768",
+      "NM": "등산/캠핑/낚시",
+      "LV": 1,
+      "TP": "10",
+      "SN": "6005",
+      "LINK_TP": "10",
+      "PN": {
+        "IMG_ALT": "빈폴아웃도어 S/S 아이템 신상 오픈!",
+        "IMG": "http://dev-img.ssgcdn.com/trans.ssg?src=/cmpt/banner/201805/2018050809564873535727353672_792.jpg",
+        "TITL": "빈폴아웃도어 S/S 아이템",
+        "LINK_URL": "http://dev-www.ssg.com/plan/planShop.ssg?planShopId=6000082125"
+      },
+      "APP_YN": "Y",
+      "MW_YN": "Y",
+      "DTH": 1
+    }, {
+      "ID": "5500002823",
+      "NM": "골프클럽/용품/의류",
+      "LV": 1,
+      "TP": "10",
+      "SN": "6005",
+      "LINK_TP": "10",
+      "PN": {
+        "IMG_ALT": "와이드앵글 스타일 하이테크 기능을 더하다! 골프웨어 추천",
+        "IMG": "http://dev-img.ssgcdn.com/trans.ssg?src=/cmpt/banner/201805/2018050415193976095737603673_636.jpg",
+        "TITL": "와이드앵글 스타일 하이테크",
+        "SUBTITL": "기능을 더하다! 골프웨어 추천",
+        "LINK_URL": "http://dev-www.ssg.com/plan/planShop.ssg?planShopId=6000087258"
+      },
+      "APP_YN": "Y",
+      "MW_YN": "Y",
+      "DTH": 1
+    }, {
+      "ID": "5500002852",
+      "NM": "자전거/인라인/헬스",
+      "LV": 1,
+      "TP": "10",
+      "SN": "6005",
+      "LINK_TP": "10",
+      "PN": {
+        "IMG_ALT": "온가족 행복템 라이딩의 계절 자전거/인라인 킥보드까지~!!",
+        "IMG": "http://dev-img.ssgcdn.com/trans.ssg?src=/cmpt/banner/201805/2018050309302073582547352354_386.jpg",
+        "TITL": "온가족 행복템 라이딩의 계절",
+        "SUBTITL": "자전거/인라인 킥보드까지~!!",
+        "LINK_URL": "http://dev-www.ssg.com/plan/planShop.ssg?planShopId=6000104745"
+      },
+      "APP_YN": "Y",
+      "MW_YN": "Y",
+      "DTH": 1
+    }]
+  }, {
+    "ID": "5410000007",
+    "NM": "식품",
+    "LV": 0,
+    "TP": "C30",
+    "SN": "6005",
+    "LINK_TP": "40",
+    "APP_YN": "Y",
+    "MW_YN": "Y",
+    "DTH": 0,
+    "L": [{
+      "ID": "6000024507",
+      "NM": "음료/주류/커피/분유",
+      "LV": 1,
+      "TP": "10",
+      "SN": "6005",
+      "LINK_TP": "10",
+      "PN": {
+        "IMG_ALT": "오리지널 두유 베지밀 건강두유 베지밀",
+        "IMG": "http://dev-img.ssgcdn.com/trans.ssg?src=/cmpt/banner/201507/20150731135045_549.jpg",
+        "TITL": "오리지널 두유 베지밀",
+        "LINK_URL": "http://dev-www.ssg.com/plan/planShop.ssg?planShopId=6000036437"
+      },
+      "APP_YN": "Y",
+      "MW_YN": "Y",
+      "DTH": 1
+    }, {
+      "ID": "6000024508",
+      "NM": "과자/초콜릿/시리얼/빵",
+      "LV": 1,
+      "TP": "10",
+      "SN": "6005",
+      "LINK_TP": "10",
+      "PN": {
+        "IMG_ALT": "워렌버핏의 선택! [See's Candies] 수제 초콜릿&캔디",
+        "IMG": "http://dev-img.ssgcdn.com/trans.ssg?src=/cmpt/banner/201803/2018033009471776039497607949_955.jpg",
+        "TITL": "워렌버핏의 선택! [See's Candies]",
+        "LINK_URL": "http://dev-www.ssg.com/plan/planShop.ssg?planShopId=6000137488"
+      },
+      "APP_YN": "Y",
+      "MW_YN": "Y",
+      "DTH": 1
+    }, {
+      "ID": "6000024509",
+      "NM": "라면/통조림/조미료",
+      "LV": 1,
+      "TP": "10",
+      "SN": "6005",
+      "LINK_TP": "10",
+      "PN": {
+        "IMG_ALT": "소바재료 모음 소바재료 모음 소바재료 모음",
+        "IMG": "http://dev-img.ssgcdn.com/trans.ssg?src=/cmpt/banner/201707/2017072615391280441298049129_989.jpg",
+        "TITL": "소바재료 모음 소바재료 모음",
+        "LINK_URL": "http://dev-www.ssg.com/plan/planShop.ssg?planShopId=6000156414"
+      },
+      "APP_YN": "Y",
+      "MW_YN": "Y",
+      "DTH": 1
+    }, {
+      "ID": "5500002930",
+      "NM": "신선/유기농/건강식품",
+      "LV": 1,
+      "TP": "10",
+      "SN": "6005",
+      "LINK_TP": "10",
+      "PN": {
+        "IMG_ALT": "대표홍삼 정관장 믿고 구매해요 건강선물 쓱",
+        "IMG": "http://dev-img.ssgcdn.com/trans.ssg?src=/cmpt/banner/201804/2018042309145376055847600684_832.jpg",
+        "TITL": "대표홍삼 정관장 믿고 구매해요",
+        "LINK_URL": "http://dev-www.ssg.com/plan/planShop.ssg?planShopId=4010020883"
+      },
+      "APP_YN": "Y",
+      "MW_YN": "Y",
+      "DTH": 1
+    }, {
+      "ID": "5500003058",
+      "NM": "유제품/냉장냉동",
+      "LV": 1,
+      "TP": "10",
+      "SN": "6005",
+      "LINK_TP": "10",
+      "PN": {
+        "IMG_ALT": "치밥열풍의주인공 굽네치밥3종런칭 차원이다른 한끼식사추천!",
+        "IMG": "http://dev-img.ssgcdn.com/trans.ssg?src=/cmpt/banner/201803/2018031209584873525227358522_367.jpg",
+        "TITL": "치밥열풍의주인공 굽네치밥3종런칭",
+        "SUBTITL": "차원이다른 한끼식사추천!",
+        "LINK_URL": "http://dev-www.ssg.com/plan/planShop.ssg?planShopId=6000185473"
+      },
+      "APP_YN": "Y",
+      "MW_YN": "Y",
+      "DTH": 1
+    }]
+  }]
+}

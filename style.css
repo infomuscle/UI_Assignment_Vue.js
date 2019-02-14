@@ -1,0 +1,28 @@
+/* reset */
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,textarea,p,blockquote,th,td,input,select,textarea,button{margin:0;padding:0}
+body,th,td,input,select,textarea,button{font-size:14px;font-family:'Malgun Gothic','맑은 고딕',sans-serif;line-height:1.5}
+fieldset,img{border:0 none}
+dl,ul,ol,menu,li{list-style:none}
+input,select,textarea,button{font-size:100%;vertical-align:middle}
+button{border:0 none;background-color:transparent;cursor:pointer}
+
+/* layout */
+header{padding:20px;background:#464646;color:#fff;word-break:break-all}
+header h1{font-family:normal}
+header h2{font-size:16px;font-weight:bold}
+header ul{margin-top:10px}
+footer{padding:20px;text-align:center}
+footer p{color:#c70000;font-size:14px;font-weight:bold;letter-spacing:-1px;word-break:keep-all}
+
+/* nav */
+.clnb_nav{padding-left:20px;background:#fff}
+.clnb_item{border-top:1px solid #eee}
+.clnb_item:first-child{border:0}
+.clnb_item > .clnb_item_link{margin-left:-20px;color:#222;font-size:15px;line-height:50px}
+.clnb_sub_item{background:#f8f8f8}
+.clnb_sub_item .clnb_item_link{color:#666;font-size:14px;line-height:45px}
+.clnb_sub_item .clnb_item_link:active{background:#ececec}
+.clnb_item_link{display:block;position:relative;padding:0 20px;letter-spacing:-.1px}
+.clnb_item_link .clnb_item_ic{overflow:hidden;position:absolute;top:50%;right:20px;width:7px;height:7px;margin-top:-6px;background:transparent;border-bottom:1px solid #999;border-right:1px solid #999;transform:perspective(1px) rotate(45deg);font-size:0}
+.clnb_item_link.folder.selected{color:#222;font-weight:bold}
+.clnb_item_link.folder.selected .clnb_item_ic{margin-top:-2px;border-color:#ff5b59;transform:perspective(1px) rotate(225deg)}

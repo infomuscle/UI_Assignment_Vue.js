@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="ko" dir="ltr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="user-scalable=no, initial-scale=1.0, width=device-width">
+  <title>SD1 UI Project_B.Jeong</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+  <div id="category">
+    <nav id="_clnb_nav" class="clnb_nav">
+      <!-- Depth 1 -->
+      <ul>
+        <li v-for="(depth1, index) in jsonCTG" class="clnb_item">
+          <a class="clnb_item_link folder d1" aria-expanded="true" v-on:click="getDepth1Index(index)">
+            <span class="clnb_item_tx">{{depth1["NM"]}}</span>
+            <span class="clnb_item_ic">[-]</span>
+          </a>
+          <!-- Depth 2 -->
+            <ul>
+    					<li v-for="(depth2, index) in depth1['L']" class="clnb_sub_item">
+                <a class="clnb_item_link d2" v-on:click="consoleLogID(index)">
+    						  <span class="clnb_item_tx">{{depth2["NM"]}}</span>
+    						</a>
+    					</li>
+  			  	</ul>
+          <!-- /Depth 2 -->
+        </li>
+      </ul>
+      <!-- /Depth 1 -->
+    </nav>
+  </div>
+</body>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/vue"></script>
+<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+<script src="app.js"></script>
+</html>
